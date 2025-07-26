@@ -32,6 +32,12 @@ remote_theme: samarsault/texture
 theme: texture
 plugins:
   - jekyll-feed
+texture:
+  title: Effective Accelerationist
+  tagline: Hombre de Finanzas
+  date_format: "%b %-d, %Y"
+  style: black
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
