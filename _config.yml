@@ -34,7 +34,7 @@ plugins:
   - jekyll-feed
 texture:
   title: Effective Accelerationist
-  tagline: Hombre de Finanzas
+  tagline: Personal Blog
   date_format: "%b %-d, %Y"
   style: black
 
